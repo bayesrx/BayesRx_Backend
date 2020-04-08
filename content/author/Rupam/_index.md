@@ -20,7 +20,7 @@ email = "rupamb@umich.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Regression Modelling", "Bayesian Statistics", "Statistical Genetics, Precision Medicine",
+  "Bayesian Statistics", "Regression Modelling", "Statistical Genetics", "Precision Oncology", "Integrative Omics"
 ]
 
 # Organizational groups that you belong to (for People widget)
